@@ -1,0 +1,12 @@
+C:\Users\juan_\source\repos\Crud\Crud\bin\Debug\Crud.exe.config
+C:\Users\juan_\source\repos\Crud\Crud\bin\Debug\Crud.exe
+C:\Users\juan_\source\repos\Crud\Crud\bin\Debug\Crud.pdb
+C:\Users\juan_\source\repos\Crud\Crud\obj\Debug\Crud.csproj.AssemblyReference.cache
+C:\Users\juan_\source\repos\Crud\Crud\obj\Debug\Crud.csproj.SuggestedBindingRedirects.cache
+C:\Users\juan_\source\repos\Crud\Crud\obj\Debug\Crud.Form1.resources
+C:\Users\juan_\source\repos\Crud\Crud\obj\Debug\Crud.Properties.Resources.resources
+C:\Users\juan_\source\repos\Crud\Crud\obj\Debug\Crud.csproj.GenerateResource.cache
+C:\Users\juan_\source\repos\Crud\Crud\obj\Debug\Crud.csproj.CoreCompileInputs.cache
+C:\Users\juan_\source\repos\Crud\Crud\obj\Debug\Crud.exe
+C:\Users\juan_\source\repos\Crud\Crud\obj\Debug\Crud.pdb
+C:\Users\juan_\source\repos\Crud\Crud\obj\Debug\Crud.FrmNuevo.resources
